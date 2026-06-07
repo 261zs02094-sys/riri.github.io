@@ -26,8 +26,8 @@ body {
 -------------------- */
 
 h1, h2, h3 {
-  color: var(--theme-color);
-  border-bottom: dashed 0.1em var(--theme-color);
+  color: var(＃ff1493);
+  border-bottom: dashed 0.1em var(＃ff00ff);
 }
 
 /* --------------------
@@ -48,7 +48,7 @@ ul {
 }
 li:before {
   content: "★";
-  color: var(--theme-color);
+  color: var(＃ff00ff);
 }
 
 /* --------------------
@@ -69,7 +69,7 @@ tr:nth-child(2n) {
 }
 th {
   background: var(--theme-color);
-  color: #fff;
+  color: #ff00ff;
 }
 th, td {
   border: solid 1px #f0f0f0;
