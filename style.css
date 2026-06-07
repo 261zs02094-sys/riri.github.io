@@ -18,7 +18,7 @@ html, body {
 body {
   margin: 0;
   padding: 30px;
-  color: #333;
+  color: #db7093;
 }
 
 /* --------------------
@@ -62,16 +62,16 @@ table {
   min-width: 70%;
 }
 tr {
-  background-color: #fff;
+  background-color: #ffc0cb;
 }
 tr:nth-child(2n) {
   background-color: #d8bfd8;
 }
 th {
   background: var(--theme-color);
-  color: #ff00ff;
+  color: #6a5acd;
 }
 th, td {
-  border: solid 1px #f0f0f0;
+  border: solid 1px #8b008b;
   padding: 0.5rem;
 }
