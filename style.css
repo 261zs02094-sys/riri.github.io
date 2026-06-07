@@ -58,14 +58,14 @@ li:before {
 table {
   border-spacing: 0;
   border-collapse: collapse;
-  border: solid 1px #f0f0f0;
+  border: solid 1px #ee82ee;
   min-width: 70%;
 }
 tr {
   background-color: #fff;
 }
 tr:nth-child(2n) {
-  background-color: #f9f9f9;
+  background-color: #d8bfd8;
 }
 th {
   background: var(--theme-color);
